@@ -11,6 +11,10 @@ console.log("Hello world, my name is Alfredo and this is one of my proyects");
 
 I use differents properties from **css** to do this Web site, in this project I try to explain the properties used like **rotate** and **translateX**.
 
+** Do you want to see the page? Click here :point_right:** [GitHubPages](https://alfredorodriguezorenday.github.io/Square_Rotation/ "Square Rotation")
+
+---
+
 ## Español
 ``` javascript
 console.log("Hola mi nombre es Alfredo y este es uno de mis proyectos");
@@ -20,6 +24,10 @@ console.log("Hola mi nombre es Alfredo y este es uno de mis proyectos");
 >En este proyecto hice una pagina Web con una animacion de un cuadrado :black_square_button:
 
 Use diferentes propiedades de **css** para hacer esta pagina Web, intente explicarlas propiedades usadas como **rotate** y **translateX**. 
+
+** Queres ver la pagina web? Da click aqui :point_right:** [GitHubPages](https://alfredorodriguezorenday.github.io/Square_Rotation/ "Square Rotation")
+
+---
 
 ## :nerd_face: **About me** || **Acerca de mi** :nerd_face:
 
