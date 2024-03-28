@@ -25,7 +25,7 @@ console.log("Hola mi nombre es Alfredo y este es uno de mis proyectos");
 
 Use diferentes propiedades de **css** para hacer esta pagina Web, intente explicarlas propiedades usadas como **rotate** y **translateX**. 
 
-**Queres ver la pagina web? Da click aqui :point_right:** [Rotate Square](https://alfredorodriguezorenday.github.io/Square_Rotation/ "Square Rotation")
+**Quieres ver la pagina web? Da click aqui :point_right:** [Rotate Square](https://alfredorodriguezorenday.github.io/Square_Rotation/ "Square Rotation")
 
 ---
 
